@@ -131,12 +131,6 @@ const projectsData = [
   },
   {
     category: "Web App",
-    title: "Mini Uber",
-    imageSrc: "./assets/images/project-2.jpg",
-    link: "https://github.com/0HugoHu/Django-Web-App"
-  },
-  {
-    category: "Web App",
     title: "Customized Chat AI (Frontend + Microservice)",
     imageSrc: "./assets/images/project-16.jpg",
     link: "https://github.com/0HugoHu/IDS706-Fall2023-FinalProject"
@@ -146,6 +140,12 @@ const projectsData = [
     title: "Text Summarizer (Autoscale)",
     imageSrc: "./assets/images/project-15.jpg",
     link: "https://github.com/0HugoHu/HugoHu-Project-4"
+  },
+  {
+    category: "Web App",
+    title: "Mini Uber",
+    imageSrc: "./assets/images/project-2.jpg",
+    link: "https://github.com/0HugoHu/Django-Web-App"
   },
   {
     category: "iOS App",

@@ -124,10 +124,28 @@ const projectsData = [
     link: "https://github.com/0HugoHu/Harry-Potter-Strategy-Game"
   },
   {
+    category: "iOS App",
+    title: "Duke Digital Asset Management",
+    imageSrc: "./assets/images/project-17.jpg",
+    link: "https://github.com/0HugoHu/ECE564-AssetMgmt/"
+  },
+  {
     category: "Web App",
     title: "Mini Uber",
     imageSrc: "./assets/images/project-2.jpg",
     link: "https://github.com/0HugoHu/Django-Web-App"
+  },
+  {
+    category: "Web App",
+    title: "Customized Chat AI (Frontend + Microservice)",
+    imageSrc: "./assets/images/project-16.jpg",
+    link: "https://github.com/0HugoHu/IDS706-Fall2023-FinalProject"
+  },
+  {
+    category: "Web App",
+    title: "Text Summarizer (Autoscale)",
+    imageSrc: "./assets/images/project-15.jpg",
+    link: "https://github.com/0HugoHu/HugoHu-Project-4"
   },
   {
     category: "iOS App",
@@ -152,6 +170,12 @@ const projectsData = [
     title: "Fragment Time Utilization and Collection Management (2019)",
     imageSrc: "./assets/images/project-4.jpg",
     link: "https://github.com/0HugoHu/MoDengXian"
+  },
+  {
+    category: "Others",
+    title: "Battleship Board Game on CMD",
+    imageSrc: "./assets/images/project-18.jpg",
+    link: "https://github.com/0HugoHu/Battleship-Board-Game"
   },
   {
     category: "Others",
@@ -275,6 +299,22 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 
 const data = [
+  {
+    src: "./assets/images/photos/Sugar Mountain/DJI_0834.jpg",
+    alt: "Sugar Mountain Resort",
+    category: "Travel",
+    date: "Dec 24, 2023",
+    title: "Sugar Mountain Resort",
+    text: "Sugar Mountain Resort is a ski area in North Carolina, United States. It has 125 acres of skiable terrain and 21 total trails."
+  },
+  {
+    src: "./assets/images/photos/Cary Chinese New Year/DSCF0378.jpg",
+    alt: "Cary Chinese New Year",
+    category: "Festival",
+    date: "Dec 20, 2023",
+    title: "Cary Chinese New Year",
+    text: "Every year, the Chinese community in Cary will hold a Chinese New Year celebration, including latern festival and Kung Fu show."
+  },
   {
     src: "./assets/images/photos/Great Smoky Mountain/DSCF8748.jpg",
     alt: "Great Smoky Mountain",
@@ -459,7 +499,9 @@ const folderMapping = {
   "Georgia Aquarium": "Atlanta Jellyfish",
   "Wild Animal Safari - Pine Mountain": "Atlanta Animals",
   "Travel to Georgia and Tennessee": "Atlanta Others",
-  "Great Smoky Mountain": "Great Smoky Mountain"
+  "Great Smoky Mountain": "Great Smoky Mountain",
+  "Cary Chinese New Year": "Cary Chinese New Year",
+  "Sugar Mountain Resort": "Sugar Mountain",
 };
 
 // Get the ul element where the list items will be added

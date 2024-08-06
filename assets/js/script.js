@@ -301,10 +301,10 @@ for (let i = 0; i < navigationLinks.length; i++) {
 const data = [
   {
     src: "./assets/images/photos/Taiwan/DSCF6635.jpg",
-    alt: "Taipei City and Taichung City",
+    alt: "Taipei City and Taichung",
     category: "Travel",
     date: "Jul 9, 2024",
-    title: "Taipei City and Taichung City",
+    title: "Taipei City and Taichung",
     text: "Taipei City is the capital and a special municipality of Taiwan. Taichung City is a special municipality located in central Taiwan."
   },
   {
@@ -319,7 +319,7 @@ const data = [
     src: "./assets/images/photos/Universal Beijing Resort/DSCF1004.jpg",
     alt: "Universal Beijing Resort",
     category: "Travel",
-    date: "Jun 9, 2023",
+    date: "Jun 9, 2024",
     title: "Universal Beijing Resort",
     text: "Universal Beijing Resort is a theme park located in Beijing, China. It is the fifth Universal Studios theme park in the world."
   },
@@ -327,7 +327,7 @@ const data = [
     src: "./assets/images/photos/Beijing/NC-MICS-679.jpg",
     alt: "Peking University, Summer Palace, and Shichahai",
     category: "Travel",
-    date: "Jun 4, 2023",
+    date: "Jun 4, 2024",
     title: "Peking University, Summer Palace, and Shichahai",
     text: "Peking University is a major research university in Beijing, China. The Summer Palace is a vast ensemble of lakes, gardens and palaces in Beijing."
   },
@@ -376,7 +376,7 @@ const data = [
     alt: "Spring Festival",
     category: "Activity",
     date: "Feb 10, 2024",
-    title: "Spring Festival",
+    title: "Spring Festival 2024",
     text: "The Spring Festival is the most important festival in China. It is a time for families to be together and a time to celebrate."
   },
   {
@@ -582,6 +582,16 @@ const folderMapping = {
   "Great Smoky Mountain": "Great Smoky Mountain",
   "Cary Chinese New Year": "Cary Chinese New Year",
   "Sugar Mountain Resort": "Sugar Mountain",
+  "Spring Festival 2024": "Spring Festival",
+  "Duke Gardens": "Duke Garden",
+  "Airplanes": "Airplane",
+  "Fishing": "Fishing",
+  "Graduation Ceremony": "Graduation",
+  "Drive to Seattle": "Drive to Seattle",
+  "Peking University, Summer Palace, and Shichahai": "Beijing",
+  "Universal Beijing Resort": "Universal Beijing Resort",
+  "Singapore": "Singapore",
+  "Taipei City and Taichung": "Taiwan"
 };
 
 // Get the ul element where the list items will be added

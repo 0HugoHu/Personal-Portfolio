@@ -300,6 +300,86 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 const data = [
   {
+    src: "./assets/images/photos/Taiwan/DSCF6635.jpg",
+    alt: "Taipei City and Taichung City",
+    category: "Travel",
+    date: "Jul 9, 2024",
+    title: "Taipei City and Taichung City",
+    text: "Taipei City is the capital and a special municipality of Taiwan. Taichung City is a special municipality located in central Taiwan."
+  },
+  {
+    src: "./assets/images/photos/Singapore/SG-SG-761.jpg",
+    alt: "Singapore",
+    category: "Travel",
+    date: "Jul 1, 2024",
+    title: "Singapore",
+    text: "Singapore is a sovereign city-state and island country in Southeast Asia. It is located in the southern tip of the Malay Peninsula."
+  },
+  {
+    src: "./assets/images/photos/Universal Beijing Resort/DSCF1004.jpg",
+    alt: "Universal Beijing Resort",
+    category: "Travel",
+    date: "Jun 9, 2023",
+    title: "Universal Beijing Resort",
+    text: "Universal Beijing Resort is a theme park located in Beijing, China. It is the fifth Universal Studios theme park in the world."
+  },
+  {
+    src: "./assets/images/photos/Beijing/NC-MICS-679.jpg",
+    alt: "Peking University, Summer Palace, and Shichahai",
+    category: "Travel",
+    date: "Jun 4, 2023",
+    title: "Peking University, Summer Palace, and Shichahai",
+    text: "Peking University is a major research university in Beijing, China. The Summer Palace is a vast ensemble of lakes, gardens and palaces in Beijing."
+  },
+  {
+    src: "./assets/images/photos/Drive to Seattle/DSCF8170.jpg",
+    alt: "Drive to Seattle",
+    category: "Travel",
+    date: "May 24, 2024",
+    title: "Drive to Seattle",
+    text: "From Durham, NC to Seattle, WA, I drove 2,800 miles across the country crossing 13 states."
+  },
+  {
+    src: "./assets/images/photos/Graduation/Grad-24-05-10-010.jpg",
+    alt: "Graduation Ceremony",
+    category: "Activity",
+    date: "May 12, 2024",
+    title: "Graduation Ceremony",
+    text: "The graduation ceremony of Duke University was held in Wallace Wade Stadium. It was a great honor to receive the Master degree."
+  },
+  {
+    src: "./assets/images/photos/Fishing/DSCF2872.jpg",
+    alt: "Fishing",
+    category: "Activity",
+    date: "Apr 27, 2024",
+    title: "Fishing",
+    text: "Sea fishing is a popular activity in the coastal city of Wilmington, NC. The fish caught are mainly Spanish mackerel and bluefish."
+  },
+  {
+    src: "./assets/images/photos/Airplane/DSCF1655.jpg",
+    alt: "Airplanes",
+    category: "Activity",
+    date: "Apr 7, 2024",
+    title: "Airplanes",
+    text: "Airplans shot at the Raleigh-Durham International Airport. There are more than 450 daily flights on 40+ airlines to 60+ destinations daily."
+  },
+  {
+    src: "./assets/images/photos/Duke Garden/DSCF0049.jpg",
+    alt: "Duke Gardens",
+    category: "Travel",
+    date: "Mar 24, 2024",
+    title: "Duke Gardens",
+    text: "Sarah P. Duke Gardens is a botanical garden on the campus of Duke University. It is open to the public without charge."
+  },
+  {
+    src: "./assets/images/photos/Spring Festival/DSCF0827.jpg",
+    alt: "Spring Festival",
+    category: "Activity",
+    date: "Feb 10, 2024",
+    title: "Spring Festival",
+    text: "The Spring Festival is the most important festival in China. It is a time for families to be together and a time to celebrate."
+  },
+  {
     src: "./assets/images/photos/Sugar Mountain/DJI_0834.jpg",
     alt: "Sugar Mountain Resort",
     category: "Travel",
